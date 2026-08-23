@@ -37,9 +37,25 @@
 
 完整规格见 [SKILL.md](SKILL.md) 与 [生产提示词](references/xxd-panel-051-prompt.zh-CN.md)。它们保留原始审美动机，但不会把历史 3:4 画布变成隐藏默认值。
 
-## 样张 · 待补充
+## 样张 · 来自 X
 
-051 的正式样张来源尚未提供，因此这里不借用其他风格的图片作为占位。收到小小东发布的 `VOL.051` X 原文后，会将核验过的图片保存到 `assets/examples/`，并逐张链接回原文。未来样张只展示审美动机，不会成为生成参考或默认值。
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091470045973262409) · 2026 年 8 月 23 日<br>
+> GPT2 × 剪纸 × 盆景 × 高级感 × 美学提示词 × VOL.051
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 051 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 051 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 051 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 051 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 051 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种可组合输出模式
 

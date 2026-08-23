@@ -39,9 +39,25 @@
 
 توجد المواصفات الكاملة في [SKILL.md](SKILL.md) و[توجيه الإنتاج](references/xxd-panel-051-prompt.en.md). وهي تحفظ الدافع الجمالي الأصلي من دون جعل لوحة 3:4 التاريخية قيمة افتراضية خفية.
 
-## النماذج · قريباً
+## النماذج · من X
 
-لم يُقدّم بعد مصدر رسمي لنماذج 051، لذلك لا يستعير المشروع صور أسلوب آخر كعنصر مؤقت. بعد تقديم منشور X موثّق من Xiaoxiaodong يحمل `VOL.051`، ستُحفظ النسخ المحلية في `assets/examples/` ويرتبط كل ملف بالمنشور الأصلي. ولا تصبح النماذج المستقبلية مراجع للتوليد أو إعدادات افتراضية.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091470045973262409) · 23 أغسطس 2026<br>
+> GPT2 × قصاصات ورقية × مشهد مصغّر × طابع راقٍ × توجيه جمالي × VOL.051
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 051 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 051 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 051 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 051 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 051 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## أربعة مخرجات قابلة للجمع
 

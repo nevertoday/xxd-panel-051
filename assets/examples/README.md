@@ -1,7 +1,15 @@
 # XXD Panel 051 samples
 
-No official sample source has been supplied yet.
+Verified source: https://x.com/xiaoxiaodong01/status/2091470045973262409
 
-This directory deliberately contains no borrowed placeholder artwork. When Xiaoxiaodong provides the verified `VOL.051` X post, store local copies here, link each displayed image back to that post, and record author and volume verification.
+- Author: Xiaoxiaodong (`@xiaoxiaodong01`)
+- Project assignment: `VOL.051`
+- Verification: The X post explicitly identifies the series as `VOL.051`.
+- Published: 2026-08-23
+- Local files:
+  - `sample-01.jpg`
+  - `sample-02.jpg`
+  - `sample-03.jpg`
+  - `sample-04.jpg`
 
-Future samples may demonstrate the style's aesthetic motive and range only. They must never become generation references, source material, fixed subjects, palettes, composition, copy, or default canvas sizes.
+The repository READMEs display these local copies and link every image back to the original X post. The samples demonstrate the style's aesthetic motive and range only; they never become generation references, source material, fixed subjects, palettes, composition, copy, or default canvas sizes.

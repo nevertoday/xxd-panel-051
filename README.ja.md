@@ -37,9 +37,25 @@
 
 完全仕様は [SKILL.md](SKILL.md) と [生成プロンプト](references/xxd-panel-051-prompt.en.md) を参照してください。原文の美的動機を守りつつ、歴史的な3:4画布を隠れた既定値にはしません。
 
-## 作例 · 準備中
+## 作例 · X より
 
-051 の正式な作例ソースはまだ提供されていないため、他のスタイルの画像を仮置きしません。小小東の検証済み `VOL.051` X 投稿が提供された後、画像を `assets/examples/` に保存し、各画像を原投稿へリンクします。将来の作例も生成参照や既定値にはなりません。
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091470045973262409) · 2026年8月23日<br>
+> GPT2 × 切り紙 × 盆景 × 上質感 × 美学プロンプト × VOL.051
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 051 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 051 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 051 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 051 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 051 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 組み合わせ可能な4つの出力
 
