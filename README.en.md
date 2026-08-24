@@ -38,7 +38,18 @@ Transform the source's most recognisable subject and narrative relation into a h
 
 These samples demonstrate the 051 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why this Skill exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 051 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Fold a recognisable subject into a light, tactile miniature paper world |
+| **Recognizable signature** | MINIATURE PAPER CRAFT · HORIZONTAL FLOATING LANDSCAPE · HANDMADE EVIDENCE · AIRY BLUE · VAST WHITESPACE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 ```text
 lock subject, silhouette, pose, and narrative relation → preserve three specific cues → rebuild one recognisable handmade miniature → derive only necessary supporting models → organise them on one narrow horizontal floating landscape band → expose fibres, folds, cuts, layered thickness, and tiny imperfections → use soft macro light for volume → retain a vast pale-paper field → integrate copy like a maker's signature
@@ -46,7 +57,7 @@ lock subject, silhouette, pose, and narrative relation → preserve three specif
 
 If an unrelated photograph could replace the source without materially changing recognition, model construction, material choice, landscape-band rhythm, colour relation, and copy, the result does not belong to this Panel.
 
-## The visual contract
+## What makes the finished style recognizable
 
 - Preserve at least three source-specific cues so the core handcrafted miniature is recognisable at first glance.
 - Use one core subject and one narrow horizontal floating landscape band; supporting models must be source-grounded and visually quieter.
