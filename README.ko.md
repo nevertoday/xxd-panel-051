@@ -193,7 +193,7 @@ Claude Code 사용자는 같은 폴더를 `~/.claude/skills/xxd-panel-051`에 �
 
 ## XXD와 지원
 
-XXD는 Xiaoxiaodong 브랜드명의 약칭이며 [@xiaoxiaodong01](https://x.com/xiaoxiaodong01)이 제작·관리합니다. 심층 상담은 CNY 299/시간이며 Skills 사용자 교류 그룹은 CNY 99 일회 결제입니다. Knowledge Planet＋회원 프롬프트 라이브러리는 연 CNY 699 한 번의 결제로 두 혜택을 모두 엽니다. [Knowledge Planet](https://wx.zsxq.com/group/15554814142882) 가입 후 WeChat으로 Xiaoxiaodong에게 연락해 [프롬프트 라이브러리](https://vip.xiaoxiaodong.ai/) 교환 코드를 받고, 프롬프트 라이브러리에서 셀프서비스 개통 후에는 WeChat으로 연락해 Knowledge Planet 초대를 받으세요. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
+XXD는 Xiaoxiaodong 브랜드명의 약칭이며 [@xiaoxiaodong01](https://x.com/xiaoxiaodong01)이 제작·관리합니다. 심층 상담은 CNY 299/시간이며 Skills 사용자 교류 그룹은 CNY 168 일회 결제입니다. Knowledge Planet＋회원 프롬프트 라이브러리는 연 CNY 699 한 번의 결제로 두 혜택을 모두 엽니다. [Knowledge Planet](https://wx.zsxq.com/group/15554814142882) 가입 후 WeChat으로 Xiaoxiaodong에게 연락해 [프롬프트 라이브러리](https://vip.xiaoxiaodong.ai/) 교환 코드를 받고, 프롬프트 라이브러리에서 셀프서비스 개통 후에는 WeChat으로 연락해 Knowledge Planet 초대를 받으세요. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 

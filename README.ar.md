@@ -195,7 +195,7 @@ ln -s "$(pwd)/xxd-panel-051" ~/.codex/skills/xxd-panel-051
 
 ## عن XXD والدعم
 
-XXD اختصار لعلامة Xiaoxiaodong، أنشأها ويديرها [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). الاستشارة المتعمقة 299 يواناً/ساعة، ومجموعة مستخدمي Skills بدفعة واحدة قدرها 99 يواناً. يفتح دفع سنوي واحد قدره 699 يواناً كلاً من Knowledge Planet ومكتبة التوجيهات. بعد الاشتراك في [Knowledge Planet](https://wx.zsxq.com/group/15554814142882)، تواصل عبر WeChat للحصول على رمز استرداد [مكتبة التوجيهات](https://vip.xiaoxiaodong.ai/)؛ وبعد التفعيل الذاتي في المكتبة، تواصل للحصول على دعوة إلى Knowledge Planet. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
+XXD اختصار لعلامة Xiaoxiaodong، أنشأها ويديرها [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). الاستشارة المتعمقة 299 يواناً/ساعة، ومجموعة مستخدمي Skills بدفعة واحدة قدرها 168 يواناً. يفتح دفع سنوي واحد قدره 699 يواناً كلاً من Knowledge Planet ومكتبة التوجيهات. بعد الاشتراك في [Knowledge Planet](https://wx.zsxq.com/group/15554814142882)، تواصل عبر WeChat للحصول على رمز استرداد [مكتبة التوجيهات](https://vip.xiaoxiaodong.ai/)؛ وبعد التفعيل الذاتي في المكتبة، تواصل للحصول على دعوة إلى Knowledge Planet. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 

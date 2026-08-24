@@ -209,7 +209,7 @@ XXD is Xiaoxiaodong's abbreviated brand name. Created and maintained by [@xiaoxi
 ## Support and membership
 
 - In-depth consultation: CNY 299/hour via [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png).
-- Xiaoxiaodong Skills User Community: CNY 99 one-time; one-to-one consultation is separate.
+- Xiaoxiaodong Skills User Community: CNY 168 one-time; one-to-one consultation is separate.
 - Knowledge Planet + Member Prompt Library: one CNY 699/year payment opens both. After joining [Knowledge Planet](https://wx.zsxq.com/group/15554814142882), contact Xiaoxiaodong on WeChat for a [Member Prompt Library](https://vip.xiaoxiaodong.ai/) redemption code; after self-service activation in the prompt library, contact Xiaoxiaodong on WeChat for an invitation to Knowledge Planet.
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
