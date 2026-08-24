@@ -18,25 +18,6 @@
 
 Transform the source's most recognisable subject and narrative relation into a handcrafted miniature installation: one identifiable core model, one narrow horizontal landscape band, a few grounded supporting pieces, visible paper fibre, and abundant pale-paper space.
 
-## Why this Skill exists
-
-```text
-lock subject, silhouette, pose, and narrative relation → preserve three specific cues → rebuild one recognisable handmade miniature → derive only necessary supporting models → organise them on one narrow horizontal floating landscape band → expose fibres, folds, cuts, layered thickness, and tiny imperfections → use soft macro light for volume → retain a vast pale-paper field → integrate copy like a maker's signature
-```
-
-If an unrelated photograph could replace the source without materially changing recognition, model construction, material choice, landscape-band rhythm, colour relation, and copy, the result does not belong to this Panel.
-
-## The visual contract
-
-- Preserve at least three source-specific cues so the core handcrafted miniature is recognisable at first glance.
-- Use one core subject and one narrow horizontal floating landscape band; supporting models must be source-grounded and visually quieter.
-- Build depth through scale, layered occlusion, and small foreground/background pieces. Centred never means rigid symmetry, and the base must stay light.
-- Make paper fibre, folded and cut edges, layered thickness, slight fuzz, joins, and tiny making imperfections visible under soft diffuse macro light.
-- Lead with airy blues, balanced by ivory, cream, pale beige, soft grey-green, sage, and architectural neutrals; muted blush is a tiny accent only.
-- Reject plastic CGI, toy displays, childish craft, generic dioramas, clutter, excessive cuteness, e-commerce staging, flat-vector substitution, and dirty yellowed colour.
-
-See [SKILL.md](SKILL.md) and the [runtime adapter](references/xxd-panel-051-prompt.en.md) for the complete contract. They preserve the original aesthetic motive without making its historical 3:4 canvas a hidden default.
-
 ## Samples · From X
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091470045973262409) · 23 August 2026<br>
@@ -56,6 +37,25 @@ See [SKILL.md](SKILL.md) and the [runtime adapter](references/xxd-panel-051-prom
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 051 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+## Why this Skill exists
+
+```text
+lock subject, silhouette, pose, and narrative relation → preserve three specific cues → rebuild one recognisable handmade miniature → derive only necessary supporting models → organise them on one narrow horizontal floating landscape band → expose fibres, folds, cuts, layered thickness, and tiny imperfections → use soft macro light for volume → retain a vast pale-paper field → integrate copy like a maker's signature
+```
+
+If an unrelated photograph could replace the source without materially changing recognition, model construction, material choice, landscape-band rhythm, colour relation, and copy, the result does not belong to this Panel.
+
+## The visual contract
+
+- Preserve at least three source-specific cues so the core handcrafted miniature is recognisable at first glance.
+- Use one core subject and one narrow horizontal floating landscape band; supporting models must be source-grounded and visually quieter.
+- Build depth through scale, layered occlusion, and small foreground/background pieces. Centred never means rigid symmetry, and the base must stay light.
+- Make paper fibre, folded and cut edges, layered thickness, slight fuzz, joins, and tiny making imperfections visible under soft diffuse macro light.
+- Lead with airy blues, balanced by ivory, cream, pale beige, soft grey-green, sage, and architectural neutrals; muted blush is a tiny accent only.
+- Reject plastic CGI, toy displays, childish craft, generic dioramas, clutter, excessive cuteness, e-commerce staging, flat-vector substitution, and dirty yellowed colour.
+
+See [SKILL.md](SKILL.md) and the [runtime adapter](references/xxd-panel-051-prompt.en.md) for the complete contract. They preserve the original aesthetic motive without making its historical 3:4 canvas a hidden default.
 
 ## The original brief is authoritative
 
