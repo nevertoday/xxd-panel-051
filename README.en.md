@@ -14,14 +14,7 @@
 
 </div>
 
-> MINIATURE PAPER CRAFT · HORIZONTAL FLOATING LANDSCAPE · HANDMADE EVIDENCE · AIRY BLUE · VAST WHITESPACE
-
-Transform the source's most recognisable subject and narrative relation into a handcrafted miniature installation: one identifiable core model, one narrow horizontal landscape band, a few grounded supporting pieces, visible paper fibre, and abundant pale-paper space.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091470045973262409) · 23 August 2026<br>
-> GPT2 × paper cut × miniature landscape × refined finish × aesthetic prompt × VOL.051
 
 <table>
   <tr>
@@ -34,9 +27,16 @@ Transform the source's most recognisable subject and narrative relation into a h
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091470045973262409) · 23 August 2026<br>
+> GPT2 × paper cut × miniature landscape × refined finish × aesthetic prompt × VOL.051
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091470045973262409">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 051 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> MINIATURE PAPER CRAFT · HORIZONTAL FLOATING LANDSCAPE · HANDMADE EVIDENCE · AIRY BLUE · VAST WHITESPACE
+
+Transform the source's most recognisable subject and narrative relation into a handcrafted miniature installation: one identifiable core model, one narrow horizontal landscape band, a few grounded supporting pieces, visible paper fibre, and abundant pale-paper space.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 051 right for you?
