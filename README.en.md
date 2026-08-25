@@ -308,8 +308,7 @@ XXD is Xiaoxiaodong's abbreviated brand name. Created and maintained by [@xiaoxi
 
 ## Support and membership
 
-- In-depth consultation: CNY 299/hour via [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png).
-- Xiaoxiaodong Commander · General Command Skill: CNY 100 one-time; one-to-one consultation is separate.
+- Xiaoxiaodong Commander · General Command Skill: CNY 100 one-time;
 
 <!-- xxd-panel-command-system:start -->
 **Your purchase unlocks the General Skill that commands the whole roster**

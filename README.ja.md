@@ -293,7 +293,7 @@ Claude Code では同じフォルダを `~/.claude/skills/xxd-panel-051` にリ�
 
 ## XXD とサポート
 
-XXD は小小東のブランド名の略称です。作者：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01)。個別相談は299元／時間です。このシリーズの将軍総指揮 Skill は一回払い100元で利用できます。知識星球＋会員プロンプトライブラリ＋全将軍 Skills 会員は、年額699元の一回の支払いで3つの特典すべてを利用できます。[Knowledge Planet](https://wx.zsxq.com/group/15554814142882) から加入した場合は WeChat で小小東に連絡して[プロンプトライブラリ](https://vip.xiaoxiaodong.ai/)の引換コードを受け取り、プロンプトライブラリで自動開通した場合は WeChat で連絡して Knowledge Planet への招待を受けてください。[WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
+XXD は小小東のブランド名の略称です。作者：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01)。このシリーズの将軍総指揮 Skill は一回払い100元で利用できます。知識星球＋会員プロンプトライブラリ＋全将軍 Skills 会員は、年額699元の一回の支払いで3つの特典すべてを利用できます。[Knowledge Planet](https://wx.zsxq.com/group/15554814142882) から加入した場合は WeChat で小小東に連絡して[プロンプトライブラリ](https://vip.xiaoxiaodong.ai/)の引換コードを受け取り、プロンプトライブラリで自動開通した場合は WeChat で連絡して Knowledge Planet への招待を受けてください。[WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
 <!-- xxd-panel-command-system:start -->
 **購入後に利用可能：全隊を指揮する「将軍 Skill」**
