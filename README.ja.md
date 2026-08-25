@@ -284,7 +284,7 @@ XXD は小小東のブランド名の略称です。作者：[@xiaoxiaodong01](h
 
 ## ☕ オープンソースを支援
 
-支援は任意で、プロジェクトへのアクセス条件を変えません。
+このプロジェクトが役に立ったら、Buy Me a Coffee から任意で応援していただけます。
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 

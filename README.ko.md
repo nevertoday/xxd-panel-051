@@ -284,7 +284,7 @@ XXD는 Xiaoxiaodong 브랜드명의 약칭이며 [@xiaoxiaodong01](https://x.com
 
 ## ☕ 오픈 소스 프로젝트 후원
 
-후원은 자율이며 프로젝트 접근 권한을 바꾸지 않습니다.
+프로젝트가 도움이 되었다면 Buy Me a Coffee로 자율 후원할 수 있습니다.
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
