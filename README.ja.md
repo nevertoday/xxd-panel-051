@@ -263,6 +263,17 @@ Claude Code では同じフォルダを `~/.claude/skills/xxd-panel-051` にリ�
 
 XXD は小小東のブランド名の略称です。作者：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01)。個別相談は299元／時間、Skills ユーザー交流グループは一回払い168元です。Knowledge Planet＋会員プロンプトライブラリは年額699元の一回の支払いで両方を利用できます。[Knowledge Planet](https://wx.zsxq.com/group/15554814142882) から加入した場合は WeChat で小小東に連絡して[プロンプトライブラリ](https://vip.xiaoxiaodong.ai/)の引換コードを受け取り、プロンプトライブラリで自動開通した場合は WeChat で連絡して Knowledge Planet への招待を受けてください。[WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
+<!-- xxd-panel-command-system:start -->
+**参加メンバーが利用できる、全隊を指揮する「将軍 Skill」**
+
+| 階級 | Skill | 担当 |
+|---|---|---|
+| **将軍級** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 利用可能な番号付き Skills の検出、画像・テーマ・用途からの推薦、番号指定の派遣、同一素材の複数スタイル試作、フォルダー画像の一括割り当てと個別派遣。 |
+| **兵士級** | `xxd-panel-NNN`（現在 001–056） | 各番号が固有の原文プロンプトと美学だけを実行し、将軍から渡された一つの仕事を完成させます。 |
+
+将軍 Skill は、番号付き Skills 全隊の司令塔です。ユーザー交流グループの参加メンバーはこれを利用でき、インストール、更新、編成、派遣方法についてサポートを受けられます。将軍は整理と派遣だけを担当し、兵士の原文美学を改変・混合・上書きしません。各完成作品は、選ばれた兵士 Skill が独立して制作します。
+<!-- xxd-panel-command-system:end -->
+
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
 <div align="center"><strong>写真を玩具にするのではなく、その本当の関係を紙へ折り込む。</strong></div>
