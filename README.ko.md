@@ -371,6 +371,8 @@ XXD는 Xiaoxiaodong 브랜드명의 약칭이며 [@xiaoxiaodong01](https://x.com
 
 ## ☕ 오픈 소스 프로젝트 후원
 
+> **광고 안내:** 이 섹션의 QR 코드와 유료 멤버십·서비스 링크는 XXD의 홍보 정보입니다. 스캔이나 구매는 선택 사항이며, 오픈 소스 이용에는 영향을 주지 않습니다.
+
 프로젝트가 도움이 되었다면 Buy Me a Coffee로 자율 후원할 수 있습니다.
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
