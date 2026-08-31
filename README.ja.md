@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 051
+# 🦁 XXD Panel 051｜手作りミニチュア島
 
 ### 写真の関係性を、軽く触れられそうな紙のミニチュアへ
 

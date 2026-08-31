@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 051
+# 🦁 XXD Panel 051｜Handmade Miniature Island
 
 ### Fold a recognisable subject into a light, tactile miniature paper world
 

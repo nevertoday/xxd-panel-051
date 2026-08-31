@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 051
+# 🦁 XXD Panel 051｜수제 미니어처 섬
 
 ### 사진의 관계를 가볍고 만질 듯한 종이 미니어처로
 

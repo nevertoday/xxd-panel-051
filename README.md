@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 051
+# 🦁 XXD Panel 051｜手作微缩岛
 
 ### 让可辨识主体成为一件轻盈可触的微缩纸艺装置
 
