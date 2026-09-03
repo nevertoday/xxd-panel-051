@@ -271,6 +271,14 @@ mkdir -p ~/.codex/skills
 ln -s "$(pwd)/xxd-panel-051" ~/.codex/skills/xxd-panel-051
 ```
 
+`npx skills`로도 바로 설치할 수 있습니다:
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-051 --skill xxd-panel-051
+```
+
+이 명령은 GitHub에서 저장소를 가져와 같은 이름의 Skill을 현재 Agent에 설치합니다. 사용자 전역 Codex Skills 디렉터리에 설치하려면 명령 끝에 `--global --agent codex --yes`를 추가하세요.
+
 Claude Code 사용자는 같은 폴더를 `~/.claude/skills/xxd-panel-051`에 연결할 수 있습니다. 설치 후 세션을 다시 시작하세요.
 
 전체 사양: [Skill](SKILL.md) · [원본 자료](references/original-prompt/zh-CN.md) · [영문 런타임 어댑터](references/xxd-panel-051-prompt.en.md) · [중문 런타임 어댑터](references/xxd-panel-051-prompt.zh-CN.md)
