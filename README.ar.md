@@ -374,20 +374,6 @@ XXD اختصار لعلامة Xiaoxiaodong، أنشأها ويديرها [@xiaox
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
 <div align="center"><strong>لا تحوّل الصورة إلى لعبة؛ اطوِ علاقاتها الحقيقية داخل الورق.</strong></div>
-
----
-
-<div align="center">
-
-## ☕ دعم المشروع المفتوح المصدر
-
-> **إفصاح إعلاني:** رموز QR وروابط العضوية والخدمات المدفوعة في هذا القسم هي مواد ترويجية من XXD. المسح أو الشراء اختياري ولا يؤثر في استخدام المشروع المفتوح المصدر.
-
-إذا أفادك المشروع، يمكنك دعمه اختيارياً عبر Buy Me a Coffee.
-
-<p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
-
-</div>
 </div>
 
 ## الترخيص
